@@ -10,7 +10,7 @@ __Step 1__
 
 Deploy resources to Azure using this [ARM template](https://github.com/Azure/osdu-data-load-tno/blob/main/azuredeploy.json). Data will be downloaded from OSDU, extracted and Uploaded into a Storage Account.
 
-[![Load from Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ffbosquet-azpn%2Fosdu-data-load-tno%2Ftmp%2Fazuredeploy.json)
+[![Load from Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ffbosquet-azpn%2Fosdu-data-load-tno%2Ftemp%2Fazuredeploy.json)
 
 Estimated Time: 1.5-2 hours
 
